@@ -333,7 +333,6 @@ a.trend-item-header-link{
 .news-item-image-container {
     position: relative;
     width: 381px;
-    height: 295px;
     margin-right: 31px;
 }
 .news-item-tags {
@@ -433,7 +432,6 @@ p:nth-child(2n+1) {
     width: 70px;
     padding-top: 5px;
     margin-right: 18px;
-    bottom: 235px;
 }
 .new-post-item-image {
     display: block;
@@ -847,8 +845,6 @@ a.goods-item-post-link:hover {
     }    
     .news-item-image {
         width: 100%;
-        height: 100%;
-        object-fit: cover;
     }
     .goods-container {
         row-gap: 25px;
@@ -917,9 +913,6 @@ a.goods-item-post-link:hover {
     }
     .news-item {
         margin-top: 36px;
-    }
-    .news-item-image-container {
-        height: 300px;  
     }
     .news-item-information {
         margin-bottom: 30px;
@@ -1079,7 +1072,6 @@ a.goods-item-post-link:hover {
     }
     .news-item-image-container {
         margin: 0 0 10px 0;
-        height: 253px;  
     }
     .news-item-information {
         margin-bottom: 13px;
